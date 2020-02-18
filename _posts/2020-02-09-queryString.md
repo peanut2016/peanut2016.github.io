@@ -99,11 +99,11 @@ http.createServer(app).listen(3000, () => {
 
 다음은 결과이다
 <p align="center">
-    <img align="center" src="https://github.com/hansanguk0222/hansanguk0222.github.io/blob/master/image/queryString1.PNG?raw=true" alt="html폼">
+    <img align="center" src="https://github.com/peanut2016/peanut2016.github.io/blob/master/image/queryString1.PNG?raw=true" alt="html폼">
 </p>
 
 <p align="center">
-    <img align="center" src="https://github.com/hansanguk0222/hansanguk0222.github.io/blob/master/image/queryString2.PNG?raw=true" alt="서버에서 보이는 쿼리">
+    <img align="center" src="https://github.com/peanut2016/peanut2016.github.io/blob/master/image/queryString2.PNG?raw=true" alt="서버에서 보이는 쿼리">
 </p>
 
 결과를 보면 stringfy로 문자열로 변환 시 url에 표현이 허용된 특수 문자나 글자 이외에는 %와 16진수로 표현 된다는 것을 알 수 있다.
